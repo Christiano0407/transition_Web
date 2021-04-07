@@ -43,9 +43,16 @@
       height: 15vh;
     }
 
+  /*   body:hover .container {
+    clip-path:  polygon(7% 7%, 93% 7%, 93% 93%, 7% 93%);
+    } */
     /* ====Transition==== */
     .container {
         height: 100vh;
+        width: 100%;
+        position: absolute;
+        clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%);
+        transition: clip-path 1s;
         .images {
             height: 100vh;
             background-image: url(../assets/images/jakob-owens-ycExgCMRggc-unsplash.jpg);

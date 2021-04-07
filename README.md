@@ -7,6 +7,7 @@ Project transition Web with Javascript
 [DesignCourse](https://www.youtube.com/watch?v=oNXX2iww5Is&t=5s)
 [tympanus](https://tympanus.net/codrops/2021/03/10/shape-slideshow-with-clip-path/)
 [GSAP](https://greensock.com/gsap/)
+[Clip-path](https://bennettfeely.com/clippy/)
 # Fonst
 [Montserrat](https://fonts.google.com/specimen/Montserrat?preview.text_type=custom)
 
