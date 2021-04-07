@@ -1,0 +1,86 @@
+:root {
+  --clr-One: #7400b8;
+  --clr-Two: #4ea8de;
+  --clr-Three: #80ffdb;
+  --clr-complement1: #6930c3;
+  --clr-complement2: #64dfdf;
+  --Clr-White: #ffffff;
+  --clr-Black: #000000;
+  --font-size-small: 1.2rem;
+  --font-size-medium: 1.6rem;
+  --font-size-tall: 2.4rem;
+}
+
+* {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+ul {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+img {
+  -o-object-fit: cover;
+     object-fit: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+body {
+  font-family: 'Montserrat', sans-serif;
+  height: 100vh;
+}
+
+/* ====Hamburger Header==== */
+.header {
+  background-color: var(--clr-One);
+  width: 100%;
+  height: 15vh;
+}
+
+/* ====Transition==== */
+.container {
+  height: 100vh;
+}
+
+.container .images {
+  height: 100vh;
+  background-image: url(../assets/images/jakob-owens-ycExgCMRggc-unsplash.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.container .content {
+  position: absolute;
+  z-index: 1;
+  width: 100%;
+  height: 100vh;
+  display: -ms-grid;
+  display: grid;
+  place-items: center;
+}
+
+.container h1 {
+  font-size: 4rem;
+  position: absolute;
+}
+
+/*  ====Footer==== */
+/* .footer {
+        height: 15vh;
+        background-color: var(--clr-One);
+        margin-top: 2rem;
+    } */
+/*# sourceMappingURL=main.css.map */

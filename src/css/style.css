@@ -35,6 +35,11 @@ img {
   background-position: center;
   background-size: cover;
 }
-    /* ====Hamburger==== */
+    /* ====Hamburger Header==== */
+.header {
+  background-color: var(--clr-One);
+  width: 100%;
+  height: 15vh;
+}
 
   /* ====Transition==== */
