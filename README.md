@@ -6,7 +6,7 @@ Project transition Web with Javascript
 - Inspired by: 
 [DesignCourse](https://www.youtube.com/watch?v=oNXX2iww5Is&t=5s)
 [tympanus](https://tympanus.net/codrops/2021/03/10/shape-slideshow-with-clip-path/)
-
+[GSAP](https://greensock.com/gsap/)
 # Fonst
 [Montserrat](https://fonts.google.com/specimen/Montserrat?preview.text_type=custom)
 
@@ -20,6 +20,7 @@ Project transition Web with Javascript
 - --clr-Black: #000000;
 
 # MediaQueries
+[MYDEVICE](https://www.mydevice.io/#compare-devices)
 ## Min-Width: 
 - 360px
 - 480px
