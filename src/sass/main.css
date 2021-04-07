@@ -68,7 +68,7 @@ body {
 
 .container .images, .container2 .images {
   height: 100vh;
-  background-image: url(../assets/images/jakob-owens-ycExgCMRggc-unsplash.jpg);
+  background-image: url(../assets/images/philipp-henzler-dgE3lWVyDh8-unsplash.jpg);
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -84,8 +84,9 @@ body {
 }
 
 .container h1, .container2 h1 {
-  font-size: 4rem;
+  font-size: 5rem;
   position: absolute;
+  font-weight: bold;
 }
 
 .container2 {
@@ -93,7 +94,7 @@ body {
 }
 
 .container2 .images {
-  background-image: url(../assets/images/fabio-oyXis2kALVg-unsplash.jpg);
+  background-image: url(../assets/images/photo-1546447911-95677822edea.jfif);
 }
 
 /*  ====Footer==== */
