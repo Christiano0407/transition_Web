@@ -1,8 +1,25 @@
-* {
+:root {
+--clr-One: #7400b8;
+--clr-Two: #4ea8de;
+--clr-Three: #80ffdb;
+--clr-complement1: #6930c3;
+--clr-complement2: #64dfdf;
+--Clr-White: #ffffff;
+--clr-Black: #000000;
+
+--font-size-small: 1.2rem; 
+--font-size-medium: 1.6rem; 
+--font-size-tall: 2.4rem; 
 
 }
-
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
 html {
-    
+    font-size: 62.5%;
+}
+body {
     font-family: 'Montserrat', sans-serif;
 }

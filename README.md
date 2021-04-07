@@ -11,11 +11,11 @@ Project transition Web with Javascript
 [Montserrat](https://fonts.google.com/specimen/Montserrat?preview.text_type=custom)
 
 # Color
-- --clr-One: #010326;
-- --clr-Two: #29F2CD;
-- --clr-Three: #A9D941;
-- --clr-Four: #F26E22;
-- --clr-Five: #D92B2B;
+- --clr-One: #7400b8;
+- --clr-Two: #4ea8de;
+- --clr-Three: #80ffdb;
+- --clr-complement1: #6930c3;
+- --clr-complement2: #64dfdf;
 - --Clr-White: #ffffff;
 - --clr-Black: #000000;
 
